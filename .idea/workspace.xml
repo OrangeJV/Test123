@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="226dffcb-d389-4d37-9b0b-8f496e8c1b0e" name="Changes" comment="" />
+    <list default="true" id="226dffcb-d389-4d37-9b0b-8f496e8c1b0e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,7 +71,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Gradle.gradle-wrapper-8.4 [test]">
+  <component name="RunManager" selected="Gradle.gradle-wrapper-8.4 [build]">
     <configuration name="gradle-wrapper-8.4 [build]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
       <ExternalSystemSettings>
         <option name="executionName" />
@@ -114,8 +116,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Gradle.gradle-wrapper-8.4 [test]" />
         <item itemvalue="Gradle.gradle-wrapper-8.4 [build]" />
+        <item itemvalue="Gradle.gradle-wrapper-8.4 [test]" />
       </list>
     </recent_temporary>
   </component>
